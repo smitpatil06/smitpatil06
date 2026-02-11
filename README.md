@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 👋 I'm Saumitra
+- 👋 I'm Smit
 - 👀 I'm very interested in Linux and DevOps.
-- 📧 <a href="mailto:saumitrapatil2703@gmail.com">saumitrapatil2703@gmail.com</a>
-- 📝 CV: <a href="https://rxresu.me/saumitrapatil/dev-ops">View Resume</a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/saumitra-patil">Saumitra Patil</a>
-- 𝕏: <a href="https://x.com/PatilSaumitra">PatilSaumitra</a>
+- 📧 <a href="mailto:smitpatil06@gmail.com">smitpatil06@gmail.com</a>
+- 📝 CV: <a href="https://rxresu.me/smitpatil06/dev-ops">View Resume</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/smit-patil">Smit Patil</a>
+- 𝕏: <a href="https://x.com/smitpatil06">smitpatil06</a>
 
 <h3> Languages, Tools and Stats </h3>
 <p> 
