@@ -1,4 +1,4 @@
-### Hi
+### Hi there 👋
 - 👋 I'm Saumitra
 - 👀 I'm very interested in Linux and DevOps.
 - 📧 <a href="mailto:saumitrapatil2703@gmail.com">saumitrapatil2703@gmail.com</a>
@@ -15,4 +15,4 @@
 <img src="https://img.icons8.com/windows/48/fa314a/console.png" alt="Console">
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saumitrapatil&show_icons=true&theme=ocean_dark&border_radius=10&bg_color=15,0d1117,1a1b26" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=smitpatil06&show_icons=true&theme=ocean_dark&border_radius=10&bg_color=15,0d1117,1a1b26" alt="GitHub Stats">
