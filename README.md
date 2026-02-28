@@ -16,3 +16,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=smitpatil06&show_icons=true&theme=ocean_dark&border_radius=10&bg_color=15,0d1117,1a1b26" alt="GitHub Stats">
+
+
+![Alt](https://repobeats.axiom.co/api/embed/1e0aa0fe588e7a3d0aa387868e8614b215dd1143.svg "Repobeats analytics image")
